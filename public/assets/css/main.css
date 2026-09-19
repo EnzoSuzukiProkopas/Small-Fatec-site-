@@ -76,11 +76,11 @@ body {
 }
 
 .btn-secondary {
-    background-color:rgb(99, 151, 151);
+    background-color:rgb(110, 0, 255);
 }
 
 .btn-secondary:hover {
-    background-color:rgb(49, 88, 88);
+    background-color:rgb(100, 100, 200);
 }
 
 .auth-form {
